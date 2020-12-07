@@ -1,0 +1,2 @@
+C:\PROGRA~2\GNUARM~1\2020-q2\bin\ARM-NO~2.EXE qc libCMSIS.a  CMakeFiles/CMSIS.dir/driver/src/common/system_hc32f46x.c.obj CMakeFiles/CMSIS.dir/startup_hc32f46x.S.obj
+C:\PROGRA~2\GNUARM~1\2020-q2\bin\AR17F9~1.EXE libCMSIS.a

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="HC32f460Test"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/sawdo/CLionProjects/HC32f460Test/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HC32f460Test.elf">
+				<Option output="C:/Users/sawdo/CLionProjects/HC32f460Test/build/HC32f460Test.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sawdo/CLionProjects/HC32f460Test/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DHC32F46x"/>
+					<Add option="-DUSE_DEVICE_DRIVER_LIB"/>
+					<Add directory="C:/Users/sawdo/CLionProjects/HC32f460Test/mcu/GCC/CMSIS/Core/Include"/>
+					<Add directory="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/inc"/>
+					<Add directory="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/common"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include/c++/9.3.1"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include/c++/9.3.1/arm-none-eabi"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include/c++/9.3.1/backward"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/include"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/include-fixed"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 HC32f460Test.elf"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HC32f460Test.elf/fast">
+				<Option output="C:/Users/sawdo/CLionProjects/HC32f460Test/build/HC32f460Test.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sawdo/CLionProjects/HC32f460Test/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DHC32F46x"/>
+					<Add option="-DUSE_DEVICE_DRIVER_LIB"/>
+					<Add directory="C:/Users/sawdo/CLionProjects/HC32f460Test/mcu/GCC/CMSIS/Core/Include"/>
+					<Add directory="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/inc"/>
+					<Add directory="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/common"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include/c++/9.3.1"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include/c++/9.3.1/arm-none-eabi"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include/c++/9.3.1/backward"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/include"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/include-fixed"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 HC32f460Test.elf/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CMSIS">
+				<Option output="C:/Users/sawdo/CLionProjects/HC32f460Test/build/libCMSIS.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sawdo/CLionProjects/HC32f460Test/build"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DHC32F46x"/>
+					<Add option="-DUSE_DEVICE_DRIVER_LIB"/>
+					<Add directory="C:/Users/sawdo/CLionProjects/HC32f460Test/mcu/GCC/CMSIS/Core/Include"/>
+					<Add directory="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/inc"/>
+					<Add directory="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/common"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include/c++/9.3.1"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include/c++/9.3.1/arm-none-eabi"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include/c++/9.3.1/backward"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/include"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/include-fixed"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 CMSIS"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CMSIS/fast">
+				<Option output="C:/Users/sawdo/CLionProjects/HC32f460Test/build/libCMSIS.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sawdo/CLionProjects/HC32f460Test/build"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DHC32F46x"/>
+					<Add option="-DUSE_DEVICE_DRIVER_LIB"/>
+					<Add directory="C:/Users/sawdo/CLionProjects/HC32f460Test/mcu/GCC/CMSIS/Core/Include"/>
+					<Add directory="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/inc"/>
+					<Add directory="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/common"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include/c++/9.3.1"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include/c++/9.3.1/arm-none-eabi"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include/c++/9.3.1/backward"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/include"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/include-fixed"/>
+					<Add directory="c:\program files (x86)\gnu arm\2020-q2\bin\../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 CMSIS/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/sawdo/CLionProjects/HC32f460Test/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/sawdo/CLionProjects/HC32f460Test/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sawdo/CLionProjects/HC32f460Test/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/common/system_hc32f46x.c">
+			<Option target="HC32f460Test.elf"/>
+			<Option target="CMSIS"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/common/system_hc32f46x.h">
+			<Option target="HC32f460Test.elf"/>
+			<Option target="CMSIS"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_adc.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_aes.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_can.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_clk.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_cmp.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_crc.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_dcu.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_dmac.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_efm.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_emb.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_event_port.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_exint_nmi_swi.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_gpio.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_hash.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_i2c.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_i2s.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_icg.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_interrupts.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_keyscan.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_mpu.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_ots.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_pwc.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_qspi.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_rmu.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_rtc.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_sdioc.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_spi.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_sram.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_swdt.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_timer0.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_timer4_cnt.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_timer4_emb.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_timer4_oco.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_timer4_pwm.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_timer4_sevt.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_timer6.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_timera.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_trng.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_usart.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_utility.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/driver/src/hc32f46x_wdt.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/hc32f46x_flash.ld">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/source/main.c">
+			<Option target="HC32f460Test.elf"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/startup_hc32f46x.S">
+			<Option target="CMSIS"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/sawdo/CLionProjects/HC32f460Test/hc32f460.cmake">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

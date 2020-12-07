@@ -1,0 +1,42 @@
+D:\JetBrainIDE\apps\CLion\ch-0\203.5981.166\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_C_COMPILER=C:/Program Files (x86)/GNU Arm Embedded Toolchain/9 2020-q2-update/bin/arm-none-eabi-gcc.exe" "-DCMAKE_CXX_COMPILER=C:/Program Files (x86)/GNU Arm Embedded Toolchain/9 2020-q2-update/bin/arm-none-eabi-g++.exe" -DCMAKE_TOOLCHAIN_FILE=hc32f460.cmake -G "CodeBlocks - MinGW Makefiles" C:\Users\sawdo\CLionProjects\HC32f460Test
+CMake Deprecation Warning at D:/JetBrainIDE/apps/CLion/ch-0/203.5981.166/bin/cmake/win/share/cmake-3.17/Modules/CMakeForceCompiler.cmake:75 (message):
+  The CMAKE_FORCE_C_COMPILER macro is deprecated.  Instead just set
+  CMAKE_C_COMPILER and allow CMake to identify the compiler.
+Call Stack (most recent call first):
+  hc32f460.cmake:9 (CMAKE_FORCE_C_COMPILER)
+  D:/JetBrainIDE/apps/CLion/ch-0/203.5981.166/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineSystem.cmake:93 (include)
+  CMakeLists.txt:2 (project)
+
+
+CMake Deprecation Warning at D:/JetBrainIDE/apps/CLion/ch-0/203.5981.166/bin/cmake/win/share/cmake-3.17/Modules/CMakeForceCompiler.cmake:89 (message):
+  The CMAKE_FORCE_CXX_COMPILER macro is deprecated.  Instead just set
+  CMAKE_CXX_COMPILER and allow CMake to identify the compiler.
+Call Stack (most recent call first):
+  hc32f460.cmake:10 (CMAKE_FORCE_CXX_COMPILER)
+  D:/JetBrainIDE/apps/CLion/ch-0/203.5981.166/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineSystem.cmake:93 (include)
+  CMakeLists.txt:2 (project)
+
+
+CMake Deprecation Warning at D:/JetBrainIDE/apps/CLion/ch-0/203.5981.166/bin/cmake/win/share/cmake-3.17/Modules/CMakeForceCompiler.cmake:75 (message):
+  The CMAKE_FORCE_C_COMPILER macro is deprecated.  Instead just set
+  CMAKE_C_COMPILER and allow CMake to identify the compiler.
+Call Stack (most recent call first):
+  hc32f460.cmake:9 (CMAKE_FORCE_C_COMPILER)
+  build/CMakeFiles/3.17.3/CMakeSystem.cmake:6 (include)
+  CMakeLists.txt:2 (project)
+
+
+CMake Deprecation Warning at D:/JetBrainIDE/apps/CLion/ch-0/203.5981.166/bin/cmake/win/share/cmake-3.17/Modules/CMakeForceCompiler.cmake:89 (message):
+  The CMAKE_FORCE_CXX_COMPILER macro is deprecated.  Instead just set
+  CMAKE_CXX_COMPILER and allow CMake to identify the compiler.
+Call Stack (most recent call first):
+  hc32f460.cmake:10 (CMAKE_FORCE_CXX_COMPILER)
+  build/CMakeFiles/3.17.3/CMakeSystem.cmake:6 (include)
+  CMakeLists.txt:2 (project)
+
+
+-- The ASM compiler identification is GNU
+-- Found assembler: C:/Program Files (x86)/GNU Arm/2020-q2/bin/arm-none-eabi-gcc.exe
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/sawdo/CLionProjects/HC32f460Test/build

@@ -1,0 +1,4 @@
+C:/Users/sawdo/CLionProjects/HC32f460Test/build/CMakeFiles/HC32f460Test.elf.dir
+C:/Users/sawdo/CLionProjects/HC32f460Test/build/CMakeFiles/CMSIS.dir
+C:/Users/sawdo/CLionProjects/HC32f460Test/build/CMakeFiles/edit_cache.dir
+C:/Users/sawdo/CLionProjects/HC32f460Test/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1173 @@
+Archive member included to satisfy reference by file (symbol)
+
+libCMSIS.a(startup_hc32f46x.S.obj)
+                              (Reset_Handler)
+c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+                              CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj (__aeabi_fmul)
+c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                              CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj (__aeabi_fsub)
+c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+                              CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj (__aeabi_fdiv)
+c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+                              CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj (__aeabi_fcmplt)
+c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+                              CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj (__aeabi_f2uiz)
+c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                              CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj (__aeabi_uldivmod)
+c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                              c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+                              c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+                              c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (exit)
+c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+                              c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+                              c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+                              c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (memset)
+c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+                              c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crti.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crti.o
+ .data          0x00000000        0x4 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x00000000       0x7c c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/source/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/source/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/source/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/common/system_hc32f46x.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/common/system_hc32f46x.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/common/system_hc32f46x.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_adc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_adc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_adc.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_adc.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_adc.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_adc.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_adc.c.obj
+ .debug_str     0x00000000      0x626 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_adc.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_adc.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_adc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_aes.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_aes.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_aes.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_aes.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_aes.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_aes.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_aes.c.obj
+ .debug_str     0x00000000      0x626 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_aes.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_aes.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_aes.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_can.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_can.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_can.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_can.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_can.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_can.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_can.c.obj
+ .debug_str     0x00000000      0x626 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_can.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_can.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_can.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_clk.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_clk.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_clk.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_clk.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_clk.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_clk.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_clk.c.obj
+ .debug_str     0x00000000      0x626 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_clk.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_clk.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_clk.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_cmp.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_cmp.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_cmp.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_cmp.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_cmp.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_cmp.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_cmp.c.obj
+ .debug_str     0x00000000      0x626 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_cmp.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_cmp.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_cmp.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_crc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_crc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_crc.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_crc.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_crc.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_crc.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_crc.c.obj
+ .debug_str     0x00000000      0x626 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_crc.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_crc.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_crc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dcu.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dcu.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dcu.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dcu.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dcu.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dcu.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dcu.c.obj
+ .debug_str     0x00000000      0x626 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dcu.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dcu.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dcu.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dmac.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dmac.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dmac.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dmac.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dmac.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dmac.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dmac.c.obj
+ .debug_str     0x00000000      0x627 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dmac.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dmac.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dmac.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_efm.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_efm.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_efm.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_efm.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_efm.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_efm.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_efm.c.obj
+ .debug_str     0x00000000      0x626 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_efm.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_efm.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_efm.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_emb.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_emb.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_emb.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_emb.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_emb.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_emb.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_emb.c.obj
+ .debug_str     0x00000000      0x626 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_emb.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_emb.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_emb.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_event_port.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_event_port.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_event_port.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_event_port.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_event_port.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_event_port.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_event_port.c.obj
+ .debug_str     0x00000000      0x62d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_event_port.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_event_port.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_event_port.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_exint_nmi_swi.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_exint_nmi_swi.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_exint_nmi_swi.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_exint_nmi_swi.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_exint_nmi_swi.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_exint_nmi_swi.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_exint_nmi_swi.c.obj
+ .debug_str     0x00000000      0x630 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_exint_nmi_swi.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_exint_nmi_swi.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_exint_nmi_swi.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .text.PORT_DeInit
+                0x00000000       0xd4 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .text.PORT_DebugPortSetting
+                0x00000000       0x70 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .text.PORT_PubSetting
+                0x00000000       0x50 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .text.PORT_GetData
+                0x00000000       0x28 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .text.PORT_GetBit
+                0x00000000       0x3a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .text.PORT_SetPortData
+                0x00000000       0x38 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .text.PORT_ResetPortData
+                0x00000000       0x3c CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .text.PORT_OE  0x00000000       0x54 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .text.PORT_SetBits
+                0x00000000       0x38 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .text.PORT_ResetBits
+                0x00000000       0x38 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .text.PORT_AlwaysOn
+                0x00000000       0x74 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .text.PORT_SetFunc
+                0x00000000       0x98 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .text.PORT_SetSubFunc
+                0x00000000       0x38 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_hash.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_hash.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_hash.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_hash.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_hash.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_hash.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_hash.c.obj
+ .debug_str     0x00000000      0x627 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_hash.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_hash.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_hash.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2c.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2c.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2c.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2c.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2c.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2c.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2c.c.obj
+ .debug_str     0x00000000      0x626 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2c.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2c.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2c.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2s.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2s.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2s.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2s.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2s.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2s.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2s.c.obj
+ .debug_str     0x00000000      0x626 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2s.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2s.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2s.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_icg.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_icg.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_icg.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_interrupts.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_interrupts.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_interrupts.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_interrupts.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_interrupts.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_interrupts.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_interrupts.c.obj
+ .debug_str     0x00000000      0x62d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_interrupts.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_interrupts.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_interrupts.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_keyscan.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_keyscan.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_keyscan.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_keyscan.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_keyscan.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_keyscan.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_keyscan.c.obj
+ .debug_str     0x00000000      0x62a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_keyscan.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_keyscan.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_keyscan.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_mpu.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_mpu.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_mpu.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_mpu.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_mpu.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_mpu.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_mpu.c.obj
+ .debug_str     0x00000000      0x626 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_mpu.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_mpu.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_mpu.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_ots.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_ots.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_ots.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_ots.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_ots.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_ots.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_ots.c.obj
+ .debug_str     0x00000000      0x626 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_ots.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_ots.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_ots.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_pwc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_pwc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_pwc.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_pwc.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_pwc.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_pwc.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_pwc.c.obj
+ .debug_str     0x00000000      0x626 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_pwc.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_pwc.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_pwc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_qspi.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_qspi.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_qspi.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_qspi.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_qspi.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_qspi.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_qspi.c.obj
+ .debug_str     0x00000000      0x627 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_qspi.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_qspi.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_qspi.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rmu.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rmu.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rmu.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rmu.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rmu.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rmu.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rmu.c.obj
+ .debug_str     0x00000000      0x626 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rmu.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rmu.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rmu.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rtc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rtc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rtc.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rtc.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rtc.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rtc.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rtc.c.obj
+ .debug_str     0x00000000      0x626 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rtc.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rtc.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rtc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sdioc.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sdioc.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sdioc.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sdioc.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sdioc.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sdioc.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sdioc.c.obj
+ .debug_str     0x00000000      0x628 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sdioc.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sdioc.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sdioc.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_spi.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_spi.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_spi.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_spi.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_spi.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_spi.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_spi.c.obj
+ .debug_str     0x00000000      0x626 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_spi.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_spi.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_spi.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sram.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sram.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sram.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sram.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sram.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sram.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sram.c.obj
+ .debug_str     0x00000000      0x627 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sram.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sram.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sram.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_swdt.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_swdt.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_swdt.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_swdt.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_swdt.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_swdt.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_swdt.c.obj
+ .debug_str     0x00000000      0x627 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_swdt.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_swdt.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_swdt.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer0.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer0.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer0.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer0.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer0.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer0.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer0.c.obj
+ .debug_str     0x00000000      0x629 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer0.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer0.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer0.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_cnt.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_cnt.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_cnt.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_cnt.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_cnt.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_cnt.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_cnt.c.obj
+ .debug_str     0x00000000      0x62d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_cnt.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_cnt.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_cnt.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_emb.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_emb.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_emb.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_emb.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_emb.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_emb.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_emb.c.obj
+ .debug_str     0x00000000      0x62d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_emb.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_emb.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_emb.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_oco.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_oco.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_oco.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_oco.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_oco.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_oco.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_oco.c.obj
+ .debug_str     0x00000000      0x62d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_oco.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_oco.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_oco.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_pwm.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_pwm.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_pwm.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_pwm.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_pwm.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_pwm.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_pwm.c.obj
+ .debug_str     0x00000000      0x62d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_pwm.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_pwm.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_pwm.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_sevt.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_sevt.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_sevt.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_sevt.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_sevt.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_sevt.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_sevt.c.obj
+ .debug_str     0x00000000      0x62e CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_sevt.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_sevt.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_sevt.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer6.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer6.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer6.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer6.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer6.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer6.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer6.c.obj
+ .debug_str     0x00000000      0x629 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer6.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer6.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer6.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timera.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timera.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timera.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timera.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timera.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timera.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timera.c.obj
+ .debug_str     0x00000000      0x629 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timera.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timera.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timera.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_trng.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_trng.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_trng.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_trng.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_trng.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_trng.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_trng.c.obj
+ .debug_str     0x00000000      0x627 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_trng.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_trng.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_trng.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_usart.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_usart.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_usart.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_usart.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_usart.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_usart.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_usart.c.obj
+ .debug_str     0x00000000      0x628 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_usart.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_usart.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_usart.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj
+ .text.DebugOutput
+                0x00000000       0x30 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj
+ .text._write   0x00000000       0x38 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj
+ .text.SetUartBaudrate
+                0x00000000      0x200 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj
+ .text.Ddl_UartInit
+                0x00000000       0xac CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj
+ .text.Ddl_Delay1us
+                0x00000000       0x68 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj
+ .text          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_wdt.c.obj
+ .data          0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_wdt.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_wdt.c.obj
+ .debug_info    0x00000000      0x962 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_wdt.c.obj
+ .debug_abbrev  0x00000000      0x17a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_wdt.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_wdt.c.obj
+ .debug_line    0x00000000      0x1c2 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_wdt.c.obj
+ .debug_str     0x00000000      0x626 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_wdt.c.obj
+ .comment       0x00000000       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_wdt.c.obj
+ .ARM.attributes
+                0x00000000       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_wdt.c.obj
+ .text          0x00000000        0x0 libCMSIS.a(startup_hc32f46x.S.obj)
+ .data          0x00000000        0x0 libCMSIS.a(startup_hc32f46x.S.obj)
+ .bss           0x00000000        0x0 libCMSIS.a(startup_hc32f46x.S.obj)
+ .text          0x00000000      0x168 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .debug_frame   0x00000000       0x24 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .text          0x00000000      0x21c c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x00000000       0x4c c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .text          0x00000000      0x2a0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .debug_frame   0x00000000       0x38 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .text          0x00000000       0xec c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .debug_frame   0x00000000       0xc8 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .text          0x00000000       0x40 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .debug_frame   0x00000000       0x24 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .text          0x00000000       0x30 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000000       0x2c c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .text          0x00000000      0x2c0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.exidx     0x00000000        0x8 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000000       0x34 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .text          0x00000000        0x4 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x48 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2e c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtn.o
+ .data          0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtn.o
+ .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00080000         xr
+OTP              0x03000c00         0x000003fc         xr
+RAM              0x1fff8000         0x0002f000         xrw
+RET_RAM          0x200f0000         0x00001000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crti.o
+LOAD c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+LOAD CMakeFiles/HC32f460Test.elf.dir/source/main.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/common/system_hc32f46x.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_adc.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_aes.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_can.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_clk.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_cmp.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_crc.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dcu.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_dmac.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_efm.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_emb.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_event_port.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_exint_nmi_swi.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_hash.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2c.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_i2s.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_icg.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_interrupts.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_keyscan.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_mpu.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_ots.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_pwc.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_qspi.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rmu.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_rtc.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sdioc.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_spi.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_sram.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_swdt.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer0.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_cnt.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_emb.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_oco.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_pwm.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer4_sevt.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timer6.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_timera.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_trng.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_usart.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj
+LOAD CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_wdt.c.obj
+LOAD libCMSIS.a
+START GROUP
+LOAD c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a
+LOAD c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a
+LOAD c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a
+LOAD c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a
+END GROUP
+LOAD c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtend.o
+LOAD c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtn.o
+
+.vectors        0x00000000      0x3c0
+                0x00000000                . = ALIGN (0x4)
+ *(.vectors)
+ .vectors       0x00000000      0x3c0 libCMSIS.a(startup_hc32f46x.S.obj)
+                0x00000000                __Vectors
+                0x000003c0                __Vectors_End
+                0x000003c0                . = ALIGN (0x4)
+
+.icg_sec        0x00000400       0x20
+ *(.icg_sec)
+ .icg_sec       0x00000400       0x20 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_icg.c.obj
+                0x00000400                u32ICG
+
+.text           0x00000420      0x4e8
+                0x00000420                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000420       0x40 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.text*)
+ .text.main     0x00000460       0x8c CMakeFiles/HC32f460Test.elf.dir/source/main.c.obj
+                0x00000460                main
+ .text.SystemInit
+                0x000004ec        0xc CMakeFiles/HC32f460Test.elf.dir/driver/src/common/system_hc32f46x.c.obj
+                0x000004ec                SystemInit
+ .text.SystemCoreClockUpdate
+                0x000004f8      0x118 CMakeFiles/HC32f460Test.elf.dir/driver/src/common/system_hc32f46x.c.obj
+                0x000004f8                SystemCoreClockUpdate
+ .text.PORT_Init
+                0x00000610      0x150 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+                0x00000610                PORT_Init
+ .text.PORT_Unlock
+                0x00000760       0x1c CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+                0x00000760                PORT_Unlock
+ .text.PORT_Lock
+                0x0000077c       0x1c CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+                0x0000077c                PORT_Lock
+ .text.PORT_Toggle
+                0x00000798       0x38 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+                0x00000798                PORT_Toggle
+ .text.Ddl_Delay1ms
+                0x000007d0       0x54 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj
+                0x000007d0                Ddl_Delay1ms
+ .text.Reset_Handler
+                0x00000824       0xb8 libCMSIS.a(startup_hc32f46x.S.obj)
+                0x00000824                Reset_Handler
+ .text.Default_Handler
+                0x000008dc        0x4 libCMSIS.a(startup_hc32f46x.S.obj)
+                0x000008dc                IRQ132_Handler
+                0x000008dc                DebugMon_Handler
+                0x000008dc                IRQ113_Handler
+                0x000008dc                IRQ031_Handler
+                0x000008dc                IRQ099_Handler
+                0x000008dc                HardFault_Handler
+                0x000008dc                IRQ095_Handler
+                0x000008dc                IRQ058_Handler
+                0x000008dc                IRQ065_Handler
+                0x000008dc                IRQ108_Handler
+                0x000008dc                SysTick_Handler
+                0x000008dc                IRQ139_Handler
+                0x000008dc                IRQ138_Handler
+                0x000008dc                IRQ012_Handler
+                0x000008dc                IRQ093_Handler
+                0x000008dc                IRQ056_Handler
+                0x000008dc                IRQ019_Handler
+                0x000008dc                PendSV_Handler
+                0x000008dc                NMI_Handler
+                0x000008dc                IRQ116_Handler
+                0x000008dc                IRQ011_Handler
+                0x000008dc                IRQ115_Handler
+                0x000008dc                IRQ051_Handler
+                0x000008dc                IRQ014_Handler
+                0x000008dc                IRQ062_Handler
+                0x000008dc                IRQ027_Handler
+                0x000008dc                IRQ117_Handler
+                0x000008dc                IRQ097_Handler
+                0x000008dc                IRQ088_Handler
+                0x000008dc                IRQ071_Handler
+                0x000008dc                IRQ034_Handler
+                0x000008dc                IRQ067_Handler
+                0x000008dc                IRQ070_Handler
+                0x000008dc                IRQ033_Handler
+                0x000008dc                IRQ077_Handler
+                0x000008dc                IRQ063_Handler
+                0x000008dc                IRQ028_Handler
+                0x000008dc                IRQ076_Handler
+                0x000008dc                IRQ039_Handler
+                0x000008dc                UsageFault_Handler
+                0x000008dc                IRQ133_Handler
+                0x000008dc                IRQ023_Handler
+                0x000008dc                IRQ126_Handler
+                0x000008dc                IRQ083_Handler
+                0x000008dc                IRQ048_Handler
+                0x000008dc                IRQ009_Handler
+                0x000008dc                IRQ122_Handler
+                0x000008dc                IRQ089_Handler
+                0x000008dc                IRQ121_Handler
+                0x000008dc                IRQ074_Handler
+                0x000008dc                IRQ037_Handler
+                0x000008dc                IRQ072_Handler
+                0x000008dc                IRQ035_Handler
+                0x000008dc                IRQ130_Handler
+                0x000008dc                IRQ111_Handler
+                0x000008dc                IRQ134_Handler
+                0x000008dc                IRQ129_Handler
+                0x000008dc                IRQ142_Handler
+                0x000008dc                IRQ105_Handler
+                0x000008dc                IRQ140_Handler
+                0x000008dc                IRQ103_Handler
+                0x000008dc                IRQ021_Handler
+                0x000008dc                IRQ082_Handler
+                0x000008dc                IRQ047_Handler
+                0x000008dc                IRQ008_Handler
+                0x000008dc                IRQ022_Handler
+                0x000008dc                IRQ081_Handler
+                0x000008dc                IRQ046_Handler
+                0x000008dc                IRQ007_Handler
+                0x000008dc                IRQ043_Handler
+                0x000008dc                IRQ004_Handler
+                0x000008dc                IRQ041_Handler
+                0x000008dc                IRQ002_Handler
+                0x000008dc                IRQ098_Handler
+                0x000008dc                IRQ000_Handler
+                0x000008dc                IRQ118_Handler
+                0x000008dc                IRQ044_Handler
+                0x000008dc                IRQ005_Handler
+                0x000008dc                IRQ084_Handler
+                0x000008dc                IRQ049_Handler
+                0x000008dc                IRQ080_Handler
+                0x000008dc                IRQ045_Handler
+                0x000008dc                IRQ006_Handler
+                0x000008dc                IRQ125_Handler
+                0x000008dc                IRQ102_Handler
+                0x000008dc                IRQ107_Handler
+                0x000008dc                IRQ112_Handler
+                0x000008dc                IRQ052_Handler
+                0x000008dc                IRQ015_Handler
+                0x000008dc                MemManage_Handler
+                0x000008dc                IRQ143_Handler
+                0x000008dc                IRQ106_Handler
+                0x000008dc                SVC_Handler
+                0x000008dc                IRQ128_Handler
+                0x000008dc                IRQ124_Handler
+                0x000008dc                IRQ136_Handler
+                0x000008dc                IRQ040_Handler
+                0x000008dc                IRQ001_Handler
+                0x000008dc                IRQ123_Handler
+                0x000008dc                IRQ010_Handler
+                0x000008dc                IRQ068_Handler
+                0x000008dc                IRQ096_Handler
+                0x000008dc                IRQ059_Handler
+                0x000008dc                IRQ131_Handler
+                0x000008dc                IRQ042_Handler
+                0x000008dc                IRQ003_Handler
+                0x000008dc                IRQ024_Handler
+                0x000008dc                IRQ141_Handler
+                0x000008dc                IRQ104_Handler
+                0x000008dc                IRQ101_Handler
+                0x000008dc                IRQ090_Handler
+                0x000008dc                IRQ053_Handler
+                0x000008dc                IRQ016_Handler
+                0x000008dc                IRQ078_Handler
+                0x000008dc                IRQ032_Handler
+                0x000008dc                IRQ020_Handler
+                0x000008dc                IRQ073_Handler
+                0x000008dc                IRQ036_Handler
+                0x000008dc                IRQ092_Handler
+                0x000008dc                IRQ055_Handler
+                0x000008dc                IRQ018_Handler
+                0x000008dc                IRQ087_Handler
+                0x000008dc                IRQ109_Handler
+                0x000008dc                IRQ061_Handler
+                0x000008dc                IRQ026_Handler
+                0x000008dc                IRQ060_Handler
+                0x000008dc                IRQ025_Handler
+                0x000008dc                IRQ085_Handler
+                0x000008dc                IRQ119_Handler
+                0x000008dc                IRQ137_Handler
+                0x000008dc                IRQ110_Handler
+                0x000008dc                IRQ050_Handler
+                0x000008dc                IRQ013_Handler
+                0x000008dc                IRQ030_Handler
+                0x000008dc                IRQ064_Handler
+                0x000008dc                IRQ029_Handler
+                0x000008dc                IRQ127_Handler
+                0x000008dc                IRQ066_Handler
+                0x000008dc                IRQ091_Handler
+                0x000008dc                IRQ054_Handler
+                0x000008dc                IRQ017_Handler
+                0x000008dc                BusFault_Handler
+                0x000008dc                IRQ075_Handler
+                0x000008dc                IRQ069_Handler
+                0x000008dc                IRQ038_Handler
+                0x000008dc                IRQ114_Handler
+                0x000008dc                IRQ086_Handler
+                0x000008dc                IRQ094_Handler
+                0x000008dc                IRQ057_Handler
+                0x000008dc                IRQ135_Handler
+                0x000008dc                IRQ100_Handler
+                0x000008dc                IRQ120_Handler
+                0x000008dc                IRQ079_Handler
+ .text.memset   0x000008e0       0x10 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+                0x000008e0                memset
+ *(.glue_7)
+ .glue_7        0x000008f0        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x000008f0        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x000008f0        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x000008f0        0x4 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crti.o
+                0x000008f0                _init
+ .init          0x000008f4        0x8 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x000008fc        0x4 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crti.o
+                0x000008fc                _fini
+ .fini          0x00000900        0x8 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtn.o
+                0x00000908                . = ALIGN (0x4)
+
+.vfp11_veneer   0x00000908        0x0
+ .vfp11_veneer  0x00000908        0x0 linker stubs
+
+.v4_bx          0x00000908        0x0
+ .v4_bx         0x00000908        0x0 linker stubs
+
+.iplt           0x00000908        0x0
+ .iplt          0x00000908        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtbegin.o
+
+.rel.dyn        0x00000908        0x0
+ .rel.iplt      0x00000908        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtbegin.o
+
+.rodata         0x00000908        0x0
+                0x00000908                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+                0x00000908                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00000908                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00000908                __exidx_end = .
+
+.preinit_array  0x00000908        0x0
+                0x00000908                . = ALIGN (0x4)
+                0x00000908                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x00000908                PROVIDE (__preinit_array_end = .)
+                0x00000908                . = ALIGN (0x4)
+
+.init_array     0x00000908        0x4
+                0x00000908                . = ALIGN (0x4)
+                0x00000908                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x00000908        0x4 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x0000090c                PROVIDE (__init_array_end = .)
+                0x0000090c                . = ALIGN (0x4)
+
+.fini_array     0x0000090c        0x4
+                0x0000090c                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x0000090c        0x4 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x00000910                . = ALIGN (0x4)
+                0x00000910                __etext = ALIGN (0x4)
+
+.otp_sec
+ *(.otp_sec)
+
+.otp_lock_sec
+ *(.otp_lock_sec)
+
+.data           0x1fff8000        0x4 load address 0x00000910
+                0x1fff8000                . = ALIGN (0x4)
+                0x1fff8000                __data_start__ = .
+ *(vtable)
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x1fff8000        0x4 CMakeFiles/HC32f460Test.elf.dir/driver/src/common/system_hc32f46x.c.obj
+                0x1fff8000                SystemCoreClock
+                0x1fff8004                . = ALIGN (0x4)
+ *(.ramfunc)
+ *(.ramfunc*)
+                0x1fff8004                . = ALIGN (0x4)
+                0x1fff8004                __data_end__ = .
+                0x00000914                __etext_ret_ram = (__etext + ALIGN (SIZEOF (.data), 0x4))
+
+.igot.plt       0x1fff8004        0x0 load address 0x00000914
+ .igot.plt      0x1fff8004        0x0 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtbegin.o
+
+.ret_ram_data   0x200f0000        0x0 load address 0x00000914
+                0x200f0000                . = ALIGN (0x4)
+                0x200f0000                __data_start_ret_ram__ = .
+ *(.ret_ram_data)
+ *(.ret_ram_data*)
+                0x200f0000                . = ALIGN (0x4)
+                0x200f0000                __data_end_ret_ram__ = .
+
+.bss            0x1fff8004       0x1c load address 0x00000914
+                0x1fff8004                . = ALIGN (0x4)
+                0x1fff8004                _sbss = .
+                0x1fff8004                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x1fff8004       0x1c c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.bss*)
+ *(COMMON)
+                0x1fff8020                . = ALIGN (0x4)
+                0x1fff8020                _ebss = .
+                0x1fff8020                __bss_end__ = _ebss
+
+.ret_ram_bss    0x200f0000        0x0
+                0x200f0000                . = ALIGN (0x4)
+                0x200f0000                __bss_start_ret_ram__ = .
+ *(.ret_ram_bss)
+ *(.ret_ram_bss*)
+                0x200f0000                . = ALIGN (0x4)
+                0x200f0000                __bss_end_ret_ram__ = .
+
+.heap_stack     0x1fff8020     0x1000
+                0x1fff8020                . = ALIGN (0x8)
+                0x1fff8020                __end__ = .
+                [!provide]                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+ *(.heap*)
+ .heap          0x1fff8020      0xc00 libCMSIS.a(startup_hc32f46x.S.obj)
+                0x1fff8020                __HeapBase
+                0x1fff8c20                . = ALIGN (0x8)
+                0x1fff8c20                __HeapLimit = .
+                0x1fff8c20                __StackLimit = .
+ *(.stack*)
+ .stack         0x1fff8c20      0x400 libCMSIS.a(startup_hc32f46x.S.obj)
+                0x1fff9020                . = ALIGN (0x8)
+                0x1fff9020                __StackTop = .
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x2a
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x2e CMakeFiles/HC32f460Test.elf.dir/source/main.c.obj
+ .ARM.attributes
+                0x0000007a       0x2e CMakeFiles/HC32f460Test.elf.dir/driver/src/common/system_hc32f46x.c.obj
+ .ARM.attributes
+                0x000000a8       0x2e CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .ARM.attributes
+                0x000000d6       0x33 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_icg.c.obj
+ .ARM.attributes
+                0x00000109       0x2e CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj
+ .ARM.attributes
+                0x00000137       0x21 libCMSIS.a(startup_hc32f46x.S.obj)
+ .ARM.attributes
+                0x00000158       0x2e c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000186       0x1e c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp/crtn.o
+                [!provide]                PROVIDE (_stack = __StackTop)
+                [!provide]                PROVIDE (_Min_Heap_Size = (__HeapLimit - __HeapBase))
+                [!provide]                PROVIDE (_Min_Stack_Size = (__StackTop - __StackLimit))
+                0x20027000                __RamEnd = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000001                ASSERT ((__StackTop <= __RamEnd), region RAM overflowed with stack)
+OUTPUT(HC32f460Test.elf elf32-littlearm)
+LOAD linker stubs
+LOAD c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+LOAD c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a
+LOAD c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m/nofp\libgcc.a
+
+.debug_info     0x00000000     0xeaa6
+ .debug_info    0x00000000      0xb8d CMakeFiles/HC32f460Test.elf.dir/source/main.c.obj
+ .debug_info    0x00000b8d     0x29f1 CMakeFiles/HC32f460Test.elf.dir/driver/src/common/system_hc32f46x.c.obj
+ .debug_info    0x0000357e     0x4320 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .debug_info    0x0000789e      0x9be CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_icg.c.obj
+ .debug_info    0x0000825c     0x6828 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj
+ .debug_info    0x0000ea84       0x22 libCMSIS.a(startup_hc32f46x.S.obj)
+
+.debug_abbrev   0x00000000      0xbe2
+ .debug_abbrev  0x00000000      0x1d2 CMakeFiles/HC32f460Test.elf.dir/source/main.c.obj
+ .debug_abbrev  0x000001d2      0x27b CMakeFiles/HC32f460Test.elf.dir/driver/src/common/system_hc32f46x.c.obj
+ .debug_abbrev  0x0000044d      0x2bc CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .debug_abbrev  0x00000709      0x18d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_icg.c.obj
+ .debug_abbrev  0x00000896      0x33a CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj
+ .debug_abbrev  0x00000bd0       0x12 libCMSIS.a(startup_hc32f46x.S.obj)
+
+.debug_aranges  0x00000000      0x170
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/HC32f460Test.elf.dir/source/main.c.obj
+ .debug_aranges
+                0x00000020       0x28 CMakeFiles/HC32f460Test.elf.dir/driver/src/common/system_hc32f46x.c.obj
+ .debug_aranges
+                0x00000048       0xa0 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .debug_aranges
+                0x000000e8       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_icg.c.obj
+ .debug_aranges
+                0x00000100       0x48 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj
+ .debug_aranges
+                0x00000148       0x28 libCMSIS.a(startup_hc32f46x.S.obj)
+
+.debug_ranges   0x00000000      0x110
+ .debug_ranges  0x00000000       0x10 CMakeFiles/HC32f460Test.elf.dir/source/main.c.obj
+ .debug_ranges  0x00000010       0x18 CMakeFiles/HC32f460Test.elf.dir/driver/src/common/system_hc32f46x.c.obj
+ .debug_ranges  0x00000028       0x90 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .debug_ranges  0x000000b8       0x38 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj
+ .debug_ranges  0x000000f0       0x20 libCMSIS.a(startup_hc32f46x.S.obj)
+
+.debug_line     0x00000000     0x12b3
+ .debug_line    0x00000000      0x2ab CMakeFiles/HC32f460Test.elf.dir/source/main.c.obj
+ .debug_line    0x000002ab      0x2aa CMakeFiles/HC32f460Test.elf.dir/driver/src/common/system_hc32f46x.c.obj
+ .debug_line    0x00000555      0x633 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .debug_line    0x00000b88      0x209 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_icg.c.obj
+ .debug_line    0x00000d91      0x456 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj
+ .debug_line    0x000011e7       0xcc libCMSIS.a(startup_hc32f46x.S.obj)
+
+.debug_str      0x00000000     0x36e2
+ .debug_str     0x00000000      0x77d CMakeFiles/HC32f460Test.elf.dir/source/main.c.obj
+                                0x819 (size before relaxing)
+ .debug_str     0x0000077d     0x1239 CMakeFiles/HC32f460Test.elf.dir/driver/src/common/system_hc32f46x.c.obj
+                               0x1857 (size before relaxing)
+ .debug_str     0x000019b6     0x1863 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+                               0x2105 (size before relaxing)
+ .debug_str     0x00003219       0x4b CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_icg.c.obj
+                                0x653 (size before relaxing)
+ .debug_str     0x00003264      0x433 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj
+                               0x2ddb (size before relaxing)
+ .debug_str     0x00003697       0x4b libCMSIS.a(startup_hc32f46x.S.obj)
+                                 0x7b (size before relaxing)
+
+.comment        0x00000000       0x4c
+ .comment       0x00000000       0x4c CMakeFiles/HC32f460Test.elf.dir/source/main.c.obj
+                                 0x4d (size before relaxing)
+ .comment       0x0000004c       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/common/system_hc32f46x.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_icg.c.obj
+ .comment       0x0000004c       0x4d CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj
+
+.debug_frame    0x00000000      0x434
+ .debug_frame   0x00000000       0x30 CMakeFiles/HC32f460Test.elf.dir/source/main.c.obj
+ .debug_frame   0x00000030       0x54 CMakeFiles/HC32f460Test.elf.dir/driver/src/common/system_hc32f46x.c.obj
+ .debug_frame   0x00000084      0x290 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_gpio.c.obj
+ .debug_frame   0x00000314      0x100 CMakeFiles/HC32f460Test.elf.dir/driver/src/hc32f46x_utility.c.obj
+ .debug_frame   0x00000414       0x20 c:/progra~2/gnuarm~1/2020-q2/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
